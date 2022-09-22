@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Form Auth</string>
+    <string name="registration">Регистрация</string>
+    <string name="name_input">Имя</string>
+    <string name="last_name_input">Фамилия</string>
+    <string name="date_birthday_head">Дата рождения:</string>
+    <string name="enter_password_input">Введите ваш пароль</string>
+    <string name="enter_repeat_password_input">Повторите пароль</string>
+    <string name="registration_name_button">Зарегистрироваться</string>
+    <string name="hello">Здравствуйте</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date_form">__/__/____</string>
+</resources>
